@@ -7,6 +7,8 @@ Favorite Movies: Users can mark movies as their favorites.
 Unfavorite Movies: Users can remove movies from their favorites list.
 Watch Movies: Users can watch movies.
 
+SITE LINK: https://cine-tag-inky.vercel.app/
+
 Contact
 
 For further inquiries or discussions regarding this project, feel free to reach out on LinkedIn www.linkedin.com/in/jhaysavi
@@ -22,6 +24,8 @@ Funcionalidades
 Filmes Favoritos: Os usuários podem marcar filmes como favoritos.
 Desfavoritar Filmes: Os usuários podem remover filmes de sua lista de favoritos.
 Assistir filmes: Os usuários podem assistir os filmes.
+
+Link do site: https://cine-tag-inky.vercel.app/
 
 Contato
 
