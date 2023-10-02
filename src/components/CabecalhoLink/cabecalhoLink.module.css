@@ -1,0 +1,15 @@
+.link{
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1em;
+    text-decoration: none;
+}
+
+@media screen and (max-width:1000px){
+    .link{
+        display: block;
+        text-align: center;
+       
+    }
+}
